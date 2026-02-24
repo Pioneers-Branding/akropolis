@@ -481,5 +481,88 @@ export const doctors: Doctor[] = [
       'Multimedia Presentation: Risk factors of type 2 DM in the general population - Rangaraya Medical College (2007)'
     ],
     email: 'garikana.jona@gmail.com'
+  },
+  {
+    id: 'dr-madan-lal',
+    name: 'Dr. Madan Lal',
+    specialization: 'Consultant Paediatrician',
+    qualification: 'MBBS, DCH (Paediatrics), SEC DNB (Paediatrics)',
+    experience: '12+ years',
+    opdTiming: 'Mon-Sat: 10:00 AM - 6:00 PM',
+    image: 'https://brandingpioneers.co.in/akropolis/dr-madan-lal.webp',
+    department: 'Pediatrics',
+    registrationVerified: true,
+    description: 'Dr. Madan Lal is a highly dedicated and experienced Pediatrician with over 12 years of expertise in child healthcare. He specializes in neonatal resuscitation, pediatric advanced life support, and managing complex childhood conditions. With a strong academic background from Pt. BD Sharma PGIMS and Aligarh Muslim University, and extensive experience in both government and corporate healthcare settings like Artemis and Cloudine, Dr. Lal provides compassionate and evidence-based care to his young patients. He is committed to ensuring the best possible health outcomes for children through preventive care and advanced medical treatment.',
+    education: [
+      {
+        degree: 'MBBS',
+        institution: 'Pt. BD Sharma Postgraduate Institute Of Medical Sciences, Rohtak',
+        year: '2014'
+      },
+      {
+        degree: 'DCH (Paediatrics)',
+        institution: 'Jawaharlal Nehru Medical College (JNMCH), Aligarh Muslim University',
+        year: '2020'
+      },
+      {
+        degree: 'Secondary DNB (Paediatrics)',
+        institution: 'Artemis Hospital, Haryana',
+        year: '2024'
+      }
+    ],
+    services: [
+      'Newborn & Infant Care',
+      'Neonatal Resuscitation',
+      'Pediatric Advanced Life Support (PALS)',
+      'Growth & Development Monitoring',
+      'Vaccination & Immunization',
+      'Pediatric POCUS (Point of Care Ultrasound)',
+      'Pediatric Pulmonology',
+      'Critical Care Management',
+      'Common Childhood Illnesses',
+      'Congenital Anomalies Screening'
+    ],
+    positions: [
+      {
+        title: 'Consultant, Department of Paediatrics',
+        organization: 'AKROPOLÍS Super Specialty Hospital, Gurugram',
+        period: 'Present'
+      },
+      {
+        title: 'Attending Consultant',
+        organization: 'Cloudine Hospital, Gurugram',
+        period: 'Dec 2024 - Oct 2025'
+      },
+      {
+        title: 'Classified Specialist (Paediatrician)',
+        organization: 'Daffodils Hospital By Artemis Hospital',
+        period: 'Feb 2024 - Jan 2025'
+      },
+      {
+        title: 'Pediatrician',
+        organization: 'Haryana Civil Medical Services (Mahendergarh, Narnaul, Rewari)',
+        period: '2020 - 2022'
+      },
+      {
+        title: 'Assistant Divisional Medical Officer (Group A)',
+        organization: 'Indian Railways',
+        period: '2017'
+      }
+    ],
+    publications: [
+      'Thesis: Burden and Pattern Of Congenital Anomalies in newborns in a Tertiary Care Hospital - DNB PAEDIATRICS',
+      'Attended 5th Pediatric Critical Care Symposium at PGIMER, Chandigarh',
+      'Workshop on Neonatology at Sir Ganga Ram Hospital, Delhi',
+      'Paediatrics POCUS Training at Amrita Hospital, Faridabad',
+      'Paediatrics Pulmonology CME at Fortis Hospital, Gurgaon'
+    ],
+    memberships: [
+      'Life Member, Indian Medical Association (IMA)',
+      'Life Member, Indian Academy of Paediatrics (IAP) - L/2022/L-400',
+      'Haryana Medical Council (HN10072)',
+      'Delhi Medical Council (100884)'
+    ],
+    email: 'Madangopalyadav878@gmail.com',
+    phone: '+918607043112'
   }
 ];
